@@ -1,4 +1,7 @@
-"""name1=input()
+**************************
+CODE-1 => DAILY CODING
+**************************
+name1=input()
 unit1=int(input())
 price1=float(input())
 name2=input()
@@ -44,11 +47,11 @@ print(f"${name2}: ${r2:.2f} ({s2})")
 print(f"${name3}: ${r3:.2f} ({s3})")
 print(f"Total Revenue: ${total:.2f}")
 print(f"Top Revenue: ${top_revenue:.2f} ({top_name})")
-print(f"High-Performing Products: {high_count}")"""
+print(f"High-Performing Products: {high_count}")
 
-
-
-
+************************
+CODE-2 => DAILY CODING
+************************
 room1=input()
 count1=int(input())
 room2=input()
